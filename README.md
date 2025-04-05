@@ -1,0 +1,1 @@
+This project provides a simple yet effective way to encrypt and decrypt images using a bitwise XOR operation with a randomly generated key. The encryption process ensures that the image content is obscured, while the decryption process restores the original image using the same key.
